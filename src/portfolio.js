@@ -265,7 +265,7 @@ const experience = {
           description: "Hammerseed is a web design, SEO, and web development company that primarily works with small businesses in the Charlotte area.",
           action1: "Curated 34 weekly social media posts on Instagram, Facebook, and LinkedIn",
           action2: "Scouted and contacted local businesses with weak SEO",
-          action3: "Measured and reported the impact of SEO on client businesses",
+          action3: "Measured the impact of SEO on client businesses with a variety of cutting edge tools",
           color: "#0879bf",
         },
       ],
@@ -359,7 +359,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "",
     avatar_image_path: "blogs_image.svg",
   },
   phoneSection: {

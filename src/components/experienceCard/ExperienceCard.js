@@ -20,11 +20,6 @@ class ExperienceCard extends Component {
           </div>
         </Fade>
         <div className="experience-card-stepper">
-          <div style={{ width: 20, height: 20, backgroundColor: `${theme.headerColor}`, borderRadius: 50, zIndex: 100 }} />
-          {
-            index !== (totalCards - 1) &&
-            <div style={{ height: 190, width: 2, backgroundColor: `${theme.headerColor}`, position: 'absolute', marginTop: 20 }} />
-          }
         </div>
         <Fade right duration={2000} distance="40px">
           <div style={{ display: 'flex', flexDirection: 'row' }}>
@@ -53,7 +48,7 @@ class ExperienceCard extends Component {
                 />
                 {experience["description"]}
               </div>
-              <div style={{ display: 'flex', justifyContent: 'flex-start', marginTop: 0 }}>
+              <div style={{ display: 'flex', marginTop: 0 }}>
                 <div
                   className="repo-description"
                 />
@@ -64,6 +59,7 @@ class ExperienceCard extends Component {
                     <li>{experience["action3"]}</li>
                   </ul>
                 }
+                
 
               </div>
             </div>
