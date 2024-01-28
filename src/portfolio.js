@@ -76,7 +76,7 @@ const skills = {
         },
         {
           skillName: "C++",
-          imageSrc: "C++.png"
+          imageSrc: "plus.png"
         },
         {
           skillName: "Tensorflow",
