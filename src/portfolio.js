@@ -321,7 +321,7 @@ const experience = {
           logo_path: "davidson.png",
           duration: "January 2022 - May 2022",
           location: "Davidson, North Carolina",
-          description: "I panned activities, discussion sessions, and trips for a class of around 100 Humanities students. In addition to these responsibilities, I was also tasked with instructing first-year Humanities students in essay writing and analytical thinking.",
+          description: "I planned activities, discussion sessions, and trips for a class of around 100 Humanities students. In addition to these responsibilities, I was also tasked with instructing first-year Humanities students in essay writing and analytical thinking.",
           action1: "",
           action2: "",
           action3: "",
